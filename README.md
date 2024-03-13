@@ -28,9 +28,9 @@
 <!-- My Projects -->
 ## 🚀 My Projects
 
-- [The Scandia](link_to_project_1): Network Tool
-- [NumStats](link_to_project_2): Data analysis.
-- [Project 3](link_to_project_3): Description of Project 3.
+- [The Scandia](https://github.com/GetPapaWls/The-Scandia): Network Scanning Tool.
+- [NumStats](https://github.com/GetPapaWls/The-Scandia): Data analysis.
+- [SSH tool](https://github.com/GetPapaWls/SSH-Connection-with-Python):Makes an SSH connection.
 
 <!-- Let's Connect -->
 ## 🤝 Let's Connect
