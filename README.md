@@ -28,8 +28,8 @@
 <!-- My Projects -->
 ## 🚀 My Projects
 
-- [Project 1](link_to_project_1): Network Tool
-- [Project 2](link_to_project_2): Data analysis.
+- [The Scandia](link_to_project_1): Network Tool
+- [NumStats](link_to_project_2): Data analysis.
 - [Project 3](link_to_project_3): Description of Project 3.
 
 <!-- Let's Connect -->
